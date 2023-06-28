@@ -39,4 +39,5 @@ Myai is deployed using a WSGI HTTP server for Python web applications, such as G
 
 - Full name: SaltedBone/Myai
 - Description: A cutting-edge web app that harnesses OpenAI APIs to interact with personal files & information in Google's ecosystem.
-- URL: https://github.com/SaltedBone/My
+- URL: https://github.com/SaltedBone/MyAi
+
